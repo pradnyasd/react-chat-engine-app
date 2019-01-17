@@ -20,7 +20,7 @@ const ChatClient= ChatEngineCore.create({
   publishKey: 'pub-c-ed3bd94a-2ba1-4209-b381-ba61a22cb6e7',
     subscribeKey: 'sub-c-b502a5da-1a3b-11e9-923b-9ef472141036'
 },{
-  globalChannel: 'chatting'
+  globalChannel: 'chatting123'
 });
 
 ChatClient.connect(username, {
